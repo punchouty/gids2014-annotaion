@@ -1,0 +1,8 @@
+*.class
+.settings
+
+# Package Files #
+# *.jar need to add .jsr files so commenting it
+*.war
+*.ear
+/bin
